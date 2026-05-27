@@ -873,7 +873,7 @@ const TRANSLATIONS = {
         description:
           "Sube tu logotipo personalizado para mostrarlo en todas las páginas.",
         add: "Agregar un logotipo personalizado",
-        recommended: "Tamaño recomendado: 800 x 200",
+        recommended: "Tamaño recommendado: 800 x 200",
         remove: "Eliminar",
         replace: "Reemplazar",
       },
@@ -1576,7 +1576,7 @@ const TRANSLATIONS = {
         "connect-bot": "Bot de conexión",
       },
       security: {
-        title: "Configuraciones de seguridad recomendadas",
+        title: "Configuraciones de seguridad recommendadas",
         description:
           "Para una mayor seguridad, configure estas opciones a través de @BotFather.",
         "disable-groups": "— Evitar que se añadan bots a los grupos",

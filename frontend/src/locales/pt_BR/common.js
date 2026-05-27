@@ -851,7 +851,7 @@ const TRANSLATIONS = {
         title: "Logo",
         description: "Envie seu logo personalizado.",
         add: "Adicionar logo",
-        recommended: "Tamanho recomendado: 800 x 200",
+        recommended: "Tamanho recommendado: 800 x 200",
         remove: "Remover",
         replace: "Substituir",
       },
@@ -1525,7 +1525,7 @@ const TRANSLATIONS = {
         "connect-bot": "Bot de Conexão",
       },
       security: {
-        title: "Configurações de segurança recomendadas",
+        title: "Configurações de segurança recommendadas",
         description:
           "Para maior segurança, configure estas opções no @BotFather.",
         "disable-groups": "— Impedir a adição de bots a grupos",
