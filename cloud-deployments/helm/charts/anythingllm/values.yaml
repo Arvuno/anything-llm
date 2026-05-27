@@ -244,7 +244,7 @@ tolerations: []
 
 affinity: {}
 
-## Array of extra manifests/obhects to create
+## Array of extra manifests/objects to create
 #
 extraObjects: []
 # - apiVersion: external-secrets.io/v1beta1
