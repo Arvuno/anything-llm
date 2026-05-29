@@ -103,3 +103,6 @@ Changes to the desktop app are downstream of the core AnythingLLM project. Relea
 ## License
 
 By contributing to AnythingLLM (this repository), you agree to license your contributions under the MIT license.
+
+## Contributors
+- Documentation improvements (2026)
